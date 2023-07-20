@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amanda! <br/><a href="https://github.com/manda-pix">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Amanda! <br/><a href="https://github.com/manda-pix">Cybersecurity Professional</a> 
   <a href="https://www.linkedin.com/in/amanda-guinyard/</a>
 
 <h2>👨‍💻 Projects Working On:</h2>
