@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects Working On:</h2>
 
-- Implementing a SOC and Honeynet in Azure | Home Lab (https://github.com/manda-pix/Cloud-SOC-Using-Azure.git)
+- [Implementing a Cloud SOC using Azure | Home Lab] (https://github.com/manda-pix/Cloud-SOC-Using-Azure.git)
 - Vulnerability Management Analyst |Home Lab
 
 <h2>📺 Education</h2>
