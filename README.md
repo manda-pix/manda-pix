@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects Working On:</h2>
 
 - <a href="https://github.com/manda-pix/Cloud-SOC-Using-Azure.git">Implementing a Cloud SOC using Azure | Home Lab</a>
-- Vulnerability Management Analyst |Home Lab
+- Vulnerability Management Analyst | Home Lab
 
 <h2>📺 Education</h2>
 
@@ -19,7 +19,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/amanda-guinyard
+Linkedin: https://linkedin.com/in/amanda-guinyard
 
 <!--
 
