@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amanda! <br/><a href="https://github.com/manda-pix">Cybersecurity Professional</a> 
+<h1>Hi, I'm Amanda! <br/><a href="https://github.com/manda-pix">IT/Cybersecurity Professional</a> 
 
 <h2>👨‍💻 Projects Working On:</h2>
 
@@ -10,7 +10,12 @@
 - Cybersecurity Certificate      Central Carolina Technical College
 - Bachelors in Computer Science  College Of Charelston
 
+<h2>Certification</H2>
 
+- Microsoft Azure Fundamentals
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
 
 <h2> 🤳 Connect with me:</h2>
 
